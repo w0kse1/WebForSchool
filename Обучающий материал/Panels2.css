@@ -1,0 +1,28 @@
+.Panel1{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 200px;
+}
+
+.Panel2{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -220px; left: 220px;
+}
+
+.Panel3{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -440px; left: 440px;
+}
+
+.list{
+    font-size: 20px;
+}
