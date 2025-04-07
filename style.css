@@ -1,0 +1,80 @@
+body{
+    background: url("resurs/Background.jpg");
+    color: rgb(15, 0, 155);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Page{
+    background: url("resurs/page.png");
+    width: 605px;
+    height: 880px;
+    position: relative;
+    left: 300px;
+}
+
+.BOnPage{
+    position: relative;
+    left: 250px;
+    font-size: 25px;
+    background-color: rgb(153, 152, 152);
+    border: 3px solid rgb(66, 66, 66);
+}
+
+.TextOnPage{
+    color: black;
+    width: 480px;
+    height: 200px;
+    position: relative;
+    left: 70px;     top: 50px;
+}
+
+.list{
+    color: rgb(15, 0, 155);
+    font-size: 25px;
+}
+
+ul{
+    position: relative;
+    top: -10px;
+}
+
+.NavigationMenu{
+    width: 5000px;
+    height: 150px;
+    background-color: rgba(229, 237, 241, 0.836);
+    position: relative;
+    top: -10px;     left: -10px;
+}
+
+a{
+    padding-left: 10px;
+    color: rgb(0, 27, 58);
+    font-size: 27px;
+    border-width: 50x   ;
+}
+
+h1{
+    padding-left: 10px;
+    padding-top: 5px;
+    color: rgb(10, 0, 97);
+    font-size: 40px;
+}
+
+h2{
+    padding-left: 5px;
+}
+
+ol, p{
+    font-size: 20px;
+}
+
+p{
+    padding-left: 5px;
+}
+
+hr{
+    position: relative;
+    top: 22px;
+    border-color: rgb(99, 194, 166);
+    border-width: 5px;
+}
