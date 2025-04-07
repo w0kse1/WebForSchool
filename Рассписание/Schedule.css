@@ -1,0 +1,44 @@
+.Monday{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 280px;
+    position: relative;
+    top: 0px;     left: 20px;
+}
+
+.Tuesday{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 280px;
+    position: relative;
+    top: -300px;     left: 250px;
+}
+
+.Wednesday{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 280px;
+    position: relative;
+    top: -600px;     left: 480px;
+}
+
+.Thursday{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 280px;
+    position: relative;
+    top: -900px;     left: 710px;
+}
+
+.Friday{
+    background-color: rgba(231, 255, 230, 0.788);
+    border-radius: 5%;
+    width: 200px;
+    height: 280px;
+    position: relative;
+    top: -1200px;     left: 940px;
+}
